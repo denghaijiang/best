@@ -65,9 +65,9 @@ put： 方法在集合内设置给定的键值对。
 
 reduce：方法将每次迭代的结果传递给下一次迭代直到集合减少为单个值。
 
+https://jingyan.baidu.com/article/4f34706ed04013e386b56d72.html： 安装composer
 
-
-
+http://www.cnblogs.com/M-LittleBird/p/5902850.html：安装redis
 
 
 
